@@ -1,0 +1,3 @@
+- Bookmark names and page numbers are hardcoded in the script
+- So is the input PDF filename
+- It will generate the same PDF with bookmarks as an interim file that will be saved before splitting into the individual PDF files named with the bookmark names.
